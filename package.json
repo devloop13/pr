@@ -18,7 +18,7 @@
     "ejs": "^2.6.1",
     "ejs-locals": "^1.0.2",
     "email-validator": "^2.0.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-partials": "^0.3.0",
     "express-session": "^1.16.1",
     "express-validator": "^5.3.1",
